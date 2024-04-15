@@ -1,4 +1,4 @@
-# human-like-curves
+# human-like-mouse-mover
 Package contains a class which is trying to perform some human-like mouse movements <br>
 <br>
 ---
